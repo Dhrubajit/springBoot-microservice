@@ -1,0 +1,6 @@
+applications:
+- name: microZUULservice
+  path: target\MicroServiceZUUL-0.0.1-SNAPSHOT.jar
+  domain: cfapps.io
+  memory: 1024M
+  instances: 1
